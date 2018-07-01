@@ -136,10 +136,31 @@ set(handles.Edit_pushbutton,'Enable','off');
 MU_enable('off',[],handles.main_h);
 handles.main_h=guidata(handles.main_h.MU_matrix_display);
 
-eval(['handles.ROI_h=' handles.main_h.V.Segs{handles.SegInd,1} '(handles.main_h.Matrix_display_axes,handles.main_h.V.Segs{handles.SegInd,4});']);
+if strcmp(handles.main_h.V.Segs{handles.SegInd,1},'impoly2')
+   eval(['handles.ROI_h=' handles.main_h.V.Segs{handles.SegInd,1}(1:end-1) '(handles.main_h.Matrix_display_axes,handles.main_h.V.Segs{handles.SegInd,4});']);
+else
+   eval(['handles.ROI_h=' handles.main_h.V.Segs{handles.SegInd,1} '(handles.main_h.Matrix_display_axes,handles.main_h.V.Segs{handles.SegInd,4});']);
+end
 Temp=handles.main_h.Mask(:,:,handles.main_h.V.Slice);
-BW=createMask(handles.ROI_h);
-Temp(BW~=0)=0;
+
+if strcmp(handles.main_h.V.Segs{handles.SegInd,1},'impoly2')
+    % interpolate contour
+    y = handles.ROI_h.getPosition;
+    y = y';
+    num = length(y(1,:));
+    x = linspace(1,num,num);
+    yy = spline(x, y);
+    y2=ppval(yy,linspace(1,num,4*num));
+    handles.ROI_h.setPosition(y2');
+    
+    BW=createMask(handles.ROI_h);
+    handles.ROI_h.setPosition(y');
+    Temp(BW~=0)=0;
+else
+    BW=createMask(handles.ROI_h);
+    Temp(BW~=0)=0;
+end
+
 handles.main_h.Mask(:,:,handles.main_h.V.Slice)=Temp;
     
 guidata(hObject, handles);
@@ -166,7 +187,23 @@ set(handles.Seg_uitable, 'Data', []);
 set(handles.Seg_uitable, 'Data', Data);
 
 Temp=handles.main_h.Mask(:,:,handles.main_h.V.Slice);
-BW=createMask(handles.ROI_h);
+
+if strcmp(handles.main_h.V.Segs{handles.SegInd,1},'impoly2')
+    % interpolate contour
+    y = handles.ROI_h.getPosition;
+    y = y';
+    num = length(y(1,:));
+    x = linspace(1,num,num);
+    yy = spline(x, y);
+    y2=ppval(yy,linspace(1,num,4*num));
+    handles.ROI_h.setPosition(y2');
+    
+    BW=createMask(handles.ROI_h);
+    handles.ROI_h.setPosition(y');
+else
+    BW=createMask(handles.ROI_h);
+end
+
 handles.main_h.V.Segs{handles.SegInd,3}=max(0,Data{handles.SegInd,3});
 handles.main_h.V.Segs{handles.SegInd,4}=getPosition(handles.ROI_h);
 Temp(BW~=0)=max(0,Data{handles.SegInd,3});

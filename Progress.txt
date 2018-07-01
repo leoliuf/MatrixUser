@@ -1,0 +1,13 @@
+MatrixUser changelog:
+
+% Jul-19-2013     - publish MatrixUser v1.0
+% Oct-02-2013     - publish MatrixUser v2.0
+% Oct-04-2013     - change rotate3DT to rotate3DT_MU
+% Feb-04-2014     - add license panel & fix minor bugs
+% Feb-18-2014     - fix bugs for loading single DICOM file
+% Jul-25-2014     - adjust UI & fix display bugs & add dfittool
+% Jul-28-2014     - fix ROI bugs when matrix is larger than 3D
+% Aug-08-2014     - fix image display bugs when fusing images
+% Aug-13-2015     - fix bug in display wrong whole slice hist at >3D matrix
+% Nov-10-2015     - fix display error for R2015a and later
+% Apr-19-2018     - add polygon segmentation with interpolated mask

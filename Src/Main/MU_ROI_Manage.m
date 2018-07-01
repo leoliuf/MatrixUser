@@ -226,7 +226,6 @@ MU_main_handles=guidata(Figure_handles.MU_main);
 set(handles.ROI_uitable,'Data',MU_main_handles.V.ROIs(:,1));
 guidata(hObject, handles);
 
-
 % --------------------------------------------------------------------
 function ROI_uitable_ButtonDownFcn(hObject, eventdata, handles)
 % hObject    handle to ROI_uitable (see GCBO)

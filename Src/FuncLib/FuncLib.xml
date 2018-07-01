@@ -66,6 +66,7 @@
       <funcFreeSeg FuncCall="MU_funcFreeSeg" FuncHint="Create free-hand segmentation" FuncIcon="FreeSeg.gif" FuncSupportMaxDim="Inf"/>
       <funcCircleSeg FuncCall="MU_funcCircleSeg" FuncHint="Create circle shape segmentation" FuncIcon="CircleSeg.gif" FuncSupportMaxDim="Inf"/>
       <funcPolygonSeg FuncCall="MU_funcPolygonSeg" FuncHint="Create polygon shape segmentation" FuncIcon="PolygonSeg.gif" FuncSupportMaxDim="Inf"/>
+      <funcPolygonSeg2 FuncCall="MU_funcPolygonSeg2" FuncHint="Create polygon shape segmentation with interpolation" FuncIcon="PolygonSeg2.gif" FuncSupportMaxDim="Inf"/>
       <funcEditSeg FuncCall="MU_funcEditSeg" FuncHint="Edit created segmentation region" FuncIcon="EditSeg.gif" FuncSupportMaxDim="Inf"/>
       <funcSaveSeg FuncCall="MU_funcSaveSeg" FuncHint="Save created segmentation region and mask" FuncIcon="SaveSeg.gif" FuncSupportMaxDim="Inf"/>
       <funcLoadSeg FuncCall="MU_funcLoadSeg" FuncHint="Load created segmentation region and mask" FuncIcon="LoadSeg.gif" FuncSupportMaxDim="Inf"/>

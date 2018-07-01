@@ -118,9 +118,9 @@ try
             BImage=max(double(handles.V.C_lower),min(BImage,double(handles.V.C_upper))); % Make sure BImage is in the range of Color Bound
             BImage=(BImage-double(handles.V.C_lower))./double((handles.V.C_upper-handles.V.C_lower));
             RGBImage=BImage;
-            RGBImage(:,:,1)=RGBImage(:,:,1)+trapmf(FImage/10,[0.3 0.6 0.9 1]);
-            RGBImage(:,:,2)=RGBImage(:,:,2)+trapmf(FImage/10,[0.1 0.3 0.6 0.9]);
-            RGBImage(:,:,3)=RGBImage(:,:,3)+trapmf(FImage/10,[0 0.1 0.3 0.6]);
+            RGBImage(:,:,1)=RGBImage(:,:,1)+trapmf(FImage/16,[0.3 0.6 0.9 1]);
+            RGBImage(:,:,2)=RGBImage(:,:,2)+trapmf(FImage/16,[0.1 0.3 0.6 0.9]);
+            RGBImage(:,:,3)=RGBImage(:,:,3)+trapmf(FImage/16,[0 0.1 0.3 0.6]);
             RGBImage=max(0,min(RGBImage,1)); % Make sure RGBImage is in the range of 0 and 1
             imagesc(RGBImage,double([handles.V.C_lower, handles.V.C_upper]));
             colormap(handles.V.Color_map);
