@@ -1,0 +1,3658 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.5.20)  15 JAN 2017 23:22
+entering extended mode
+**MatrixUser_User_Guide.tex
+(D:\Dropbox\Write\MatrixUser\v2.2\MatrixUser_Web\manual\MatrixUser_User_Guide_v2_2\MatrixUser_User_Guide.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
+, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
+ian, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
+-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
+ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
+elsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty"
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))))
+\c@section@level=\count99
+LaTeX Info: Redefining \ref on input line 353.
+LaTeX Info: Redefining \pageref on input line 353.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@theorem=\count100
+
+(D:\Dropbox\Write\MatrixUser\v2.2\MatrixUser_Web\manual\MatrixUser_User_Guide_v2_2\MatrixUser_User_Guide.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Try loading font information for U+msa on input line 69.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 69.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(D:\Dropbox\Write\MatrixUser\v2.2\MatrixUser_Web\manual\MatrixUser_User_Guide_v2_2\MatrixUser_User_Guide.toc)
+\tf@toc=\write3
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+
+ []
+
+[1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 87.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 87.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+LaTeX Warning: File `Pictures/MatrixUser.eps' not found on input line 98.
+
+
+! LaTeX Error: File `Pictures/MatrixUser.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 ...th=0.8\textwidth]{Pictures/MatrixUser.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MatrixUser.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 ...th=0.8\textwidth]{Pictures/MatrixUser.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MatrixUser.eps Graphic file (type eps)
+<Pictures/MatrixUser.eps>
+Overfull \hbox (14.94519pt too wide) in paragraph at lines 106--107
+[]\OT1/cmr/m/n/10 Current Ma-trixUser ver-sion sup-ports dis-play-ing any valid Mat-lab multi-dimensional
+ []
+
+[2] [3]
+
+LaTeX Warning: File `Pictures/LoadFromBinary.eps' not found on input line 128.
+
+
+! LaTeX Error: File `Pictures/LoadFromBinary.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 ...4\textwidth]{Pictures/LoadFromBinary.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/LoadFromBinary.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 ...4\textwidth]{Pictures/LoadFromBinary.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/LoadFromBinary.eps Graphic file (type eps)
+<Pictures/LoadFromBinary.eps>
+
+LaTeX Warning: File `Pictures/LoadFromDICOM.eps' not found on input line 139.
+
+
+! LaTeX Error: File `Pictures/LoadFromDICOM.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ....8\textwidth]{Pictures/LoadFromDICOM.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/LoadFromDICOM.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ....8\textwidth]{Pictures/LoadFromDICOM.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/LoadFromDICOM.eps Graphic file (type eps)
+<Pictures/LoadFromDICOM.eps> [4] [5]
+
+LaTeX Warning: File `Pictures/MatrixUserDisplayPanel.eps' not found on input line 162.
+
+
+! LaTeX Error: File `Pictures/MatrixUserDisplayPanel.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 ...dth]{Pictures/MatrixUserDisplayPanel.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MatrixUserDisplayPanel.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 ...dth]{Pictures/MatrixUserDisplayPanel.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MatrixUserDisplayPanel.eps Graphic file (type eps)
+<Pictures/MatrixUserDisplayPanel.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+LaTeX Warning: File `Pictures/SaveFig.eps' not found on input line 175.
+
+
+! LaTeX Error: File `Pictures/SaveFig.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 ...m \vcenteredinclude{Pictures/SaveFig.eps}
+                                                   : Save current image axes...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/SaveFig.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 ...m \vcenteredinclude{Pictures/SaveFig.eps}
+                                                   : Save current image axes...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/SaveFig.eps Graphic file (type eps)
+<Pictures/SaveFig.eps>
+
+LaTeX Warning: File `Pictures/ZoomIn.eps' not found on input line 176.
+
+
+! LaTeX Error: File `Pictures/ZoomIn.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 ...em \vcenteredinclude{Pictures/ZoomIn.eps}
+                                                   : Zoom in matrix area
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ZoomIn.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 ...em \vcenteredinclude{Pictures/ZoomIn.eps}
+                                                   : Zoom in matrix area
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ZoomIn.eps Graphic file (type eps)
+<Pictures/ZoomIn.eps>
+
+LaTeX Warning: File `Pictures/ZoomOut.eps' not found on input line 177.
+
+
+! LaTeX Error: File `Pictures/ZoomOut.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 ...m \vcenteredinclude{Pictures/ZoomOut.eps}
+                                                   : Zoom out matrix area
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ZoomOut.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 ...m \vcenteredinclude{Pictures/ZoomOut.eps}
+                                                   : Zoom out matrix area
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ZoomOut.eps Graphic file (type eps)
+<Pictures/ZoomOut.eps>
+
+LaTeX Warning: File `Pictures/Pan.eps' not found on input line 178.
+
+
+! LaTeX Error: File `Pictures/Pan.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 		\item \vcenteredinclude{Pictures/Pan.eps}
+                                                  : Manually move matrix pos...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Pan.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 		\item \vcenteredinclude{Pictures/Pan.eps}
+                                                  : Manually move matrix pos...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Pan.eps Graphic file (type eps)
+<Pictures/Pan.eps>
+
+LaTeX Warning: File `Pictures/DataCursor.eps' not found on input line 179.
+
+
+! LaTeX Error: File `Pictures/DataCursor.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 ...vcenteredinclude{Pictures/DataCursor.eps}
+                                                   : Check individual voxel ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/DataCursor.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 ...vcenteredinclude{Pictures/DataCursor.eps}
+                                                   : Check individual voxel ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/DataCursor.eps Graphic file (type eps)
+<Pictures/DataCursor.eps>
+
+LaTeX Warning: File `Pictures/Print.eps' not found on input line 180.
+
+
+! LaTeX Error: File `Pictures/Print.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180 ...tem \vcenteredinclude{Pictures/Print.eps}
+                                                   : Print current figure
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Print.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180 ...tem \vcenteredinclude{Pictures/Print.eps}
+                                                   : Print current figure
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Print.eps Graphic file (type eps)
+<Pictures/Print.eps> [6]
+
+LaTeX Warning: File `Pictures/Colorbar.eps' not found on input line 181.
+
+
+! LaTeX Error: File `Pictures/Colorbar.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ... \vcenteredinclude{Pictures/Colorbar.eps}
+                                                   : Turn on/off color bar
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Colorbar.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ... \vcenteredinclude{Pictures/Colorbar.eps}
+                                                   : Turn on/off color bar
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Colorbar.eps Graphic file (type eps)
+<Pictures/Colorbar.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+
+LaTeX Warning: File `Pictures/MatrixCalc.eps' not found on input line 204.
+
+
+! LaTeX Error: File `Pictures/MatrixCalc.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 ...vcenteredinclude{Pictures/MatrixCalc.eps}
+                                                  ) and a matrix saving butt...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MatrixCalc.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 ...vcenteredinclude{Pictures/MatrixCalc.eps}
+                                                  ) and a matrix saving butt...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MatrixCalc.eps Graphic file (type eps)
+<Pictures/MatrixCalc.eps>
+
+LaTeX Warning: File `Pictures/Upload.eps' not found on input line 204.
+
+
+! LaTeX Error: File `Pictures/Upload.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 ...n (\vcenteredinclude{Pictures/Upload.eps}
+                                                  ). Valid matrix calculatio...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Upload.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 ...n (\vcenteredinclude{Pictures/Upload.eps}
+                                                  ). Valid matrix calculatio...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Upload.eps Graphic file (type eps)
+<Pictures/Upload.eps>
+
+LaTeX Warning: File `Pictures/MatrixCalcExample.eps' not found on input line 215.
+
+
+! LaTeX Error: File `Pictures/MatrixCalcExample.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.215 ...extwidth]{Pictures/MatrixCalcExample.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MatrixCalcExample.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.215 ...extwidth]{Pictures/MatrixCalcExample.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MatrixCalcExample.eps Graphic file (type eps)
+<Pictures/MatrixCalcExample.eps> [7]
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+
+LaTeX Warning: File `Pictures/Release.eps' not found on input line 253.
+
+
+! LaTeX Error: File `Pictures/Release.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253 ...m \vcenteredinclude{Pictures/Release.eps}
+                                                   : Reset matrix display an...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Release.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253 ...m \vcenteredinclude{Pictures/Release.eps}
+                                                   : Reset matrix display an...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Release.eps Graphic file (type eps)
+<Pictures/Release.eps>
+
+LaTeX Warning: File `Pictures/Grid.eps' not found on input line 254.
+
+
+! LaTeX Error: File `Pictures/Grid.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 		\item \vcenteredinclude{Pictures/Grid.eps}
+                                                   : Turn on and off black g...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Grid.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 		\item \vcenteredinclude{Pictures/Grid.eps}
+                                                   : Turn on and off black g...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Grid.eps Graphic file (type eps)
+<Pictures/Grid.eps>
+
+LaTeX Warning: File `Pictures/Axis.eps' not found on input line 255.
+
+
+! LaTeX Error: File `Pictures/Axis.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.255 		\item \vcenteredinclude{Pictures/Axis.eps}
+                                                   : Configure axis mode
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Axis.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.255 		\item \vcenteredinclude{Pictures/Axis.eps}
+                                                   : Configure axis mode
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Axis.eps Graphic file (type eps)
+<Pictures/Axis.eps>
+
+LaTeX Warning: File `Pictures/Magnifier.eps' not found on input line 256.
+
+
+! LaTeX Error: File `Pictures/Magnifier.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...\vcenteredinclude{Pictures/Magnifier.eps}
+                                                   : Open an instant magnifi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Magnifier.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...\vcenteredinclude{Pictures/Magnifier.eps}
+                                                   : Open an instant magnifi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Magnifier.eps Graphic file (type eps)
+<Pictures/Magnifier.eps>
+
+LaTeX Warning: File `Pictures/LineProfile.eps' not found on input line 257.
+
+
+! LaTeX Error: File `Pictures/LineProfile.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 ...centeredinclude{Pictures/LineProfile.eps}
+                                                   : Plot and update a profi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/LineProfile.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 ...centeredinclude{Pictures/LineProfile.eps}
+                                                   : Plot and update a profi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/LineProfile.eps Graphic file (type eps)
+<Pictures/LineProfile.eps>
+
+LaTeX Warning: File `Pictures/BrainProfile.eps' not found on input line 261.
+
+
+! LaTeX Error: File `Pictures/BrainProfile.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 ...0.7\textwidth]{Pictures/BrainProfile.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/BrainProfile.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 ...0.7\textwidth]{Pictures/BrainProfile.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/BrainProfile.eps Graphic file (type eps)
+<Pictures/BrainProfile.eps>
+
+LaTeX Warning: File `Pictures/DimProfile.eps' not found on input line 268.
+
+
+! LaTeX Error: File `Pictures/DimProfile.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 ...vcenteredinclude{Pictures/DimProfile.eps}
+                                                   : Plot and update a profi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/DimProfile.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 ...vcenteredinclude{Pictures/DimProfile.eps}
+                                                   : Plot and update a profi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/DimProfile.eps Graphic file (type eps)
+<Pictures/DimProfile.eps>
+
+LaTeX Warning: File `Pictures/DimProfileWindow.eps' not found on input line 272.
+
+
+! LaTeX Error: File `Pictures/DimProfileWindow.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 ...textwidth]{Pictures/DimProfileWindow.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/DimProfileWindow.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 ...textwidth]{Pictures/DimProfileWindow.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/DimProfileWindow.eps Graphic file (type eps)
+<Pictures/DimProfileWindow.eps>
+
+LaTeX Warning: File `Pictures/3DSlicer.eps' not found on input line 277.
+
+
+! LaTeX Error: File `Pictures/3DSlicer.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.277 ... \vcenteredinclude{Pictures/3DSlicer.eps}
+                                                   : Open a separate window ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/3DSlicer.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.277 ... \vcenteredinclude{Pictures/3DSlicer.eps}
+                                                   : Open a separate window ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/3DSlicer.eps Graphic file (type eps)
+<Pictures/3DSlicer.eps>
+
+LaTeX Warning: File `Pictures/RedBar.eps' not found on input line 280.
+
+
+! LaTeX Error: File `Pictures/RedBar.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.280 ...em \vcenteredinclude{Pictures/RedBar.eps}
+                                                   : Activate or deactivate ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/RedBar.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.280 ...em \vcenteredinclude{Pictures/RedBar.eps}
+                                                   : Activate or deactivate ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/RedBar.eps Graphic file (type eps)
+<Pictures/RedBar.eps>
+
+LaTeX Warning: File `Pictures/YellowBar.eps' not found on input line 281.
+
+
+! LaTeX Error: File `Pictures/YellowBar.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.281 ...\vcenteredinclude{Pictures/YellowBar.eps}
+                                                   : Activate or deactivate ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/YellowBar.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.281 ...\vcenteredinclude{Pictures/YellowBar.eps}
+                                                   : Activate or deactivate ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/YellowBar.eps Graphic file (type eps)
+<Pictures/YellowBar.eps>
+
+LaTeX Warning: File `Pictures/Switch.eps' not found on input line 282.
+
+
+! LaTeX Error: File `Pictures/Switch.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.282 ...em \vcenteredinclude{Pictures/Switch.eps}
+                                                   : Switch matrices between...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Switch.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.282 ...em \vcenteredinclude{Pictures/Switch.eps}
+                                                   : Switch matrices between...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Switch.eps Graphic file (type eps)
+<Pictures/Switch.eps>
+
+LaTeX Warning: File `Pictures/Upload.eps' not found on input line 282.
+
+
+! LaTeX Error: File `Pictures/Upload.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.282 ...g (\vcenteredinclude{Pictures/Upload.eps}
+                                                  ).
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Upload.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.282 ...g (\vcenteredinclude{Pictures/Upload.eps}
+                                                  ).
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Upload.eps Graphic file (type eps)
+<Pictures/Upload.eps> [9] [10] [11]
+
+LaTeX Warning: File `Pictures/3DSlice.eps' not found on input line 287.
+
+
+! LaTeX Error: File `Pictures/3DSlice.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 ...idth=0.8\textwidth]{Pictures/3DSlice.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/3DSlice.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 ...idth=0.8\textwidth]{Pictures/3DSlice.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/3DSlice.eps Graphic file (type eps)
+<Pictures/3DSlice.eps>
+
+LaTeX Warning: File `Pictures/RGBImage.eps' not found on input line 292.
+
+
+! LaTeX Error: File `Pictures/RGBImage.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.292 ... \vcenteredinclude{Pictures/RGBImage.eps}
+                                                   : Create a RGB Image, ass...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/RGBImage.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.292 ... \vcenteredinclude{Pictures/RGBImage.eps}
+                                                   : Create a RGB Image, ass...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/RGBImage.eps Graphic file (type eps)
+<Pictures/RGBImage.eps>
+
+LaTeX Warning: File `Pictures/Montage.eps' not found on input line 293.
+
+
+! LaTeX Error: File `Pictures/Montage.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 ...m \vcenteredinclude{Pictures/Montage.eps}
+                                                   : Create a montage image ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Montage.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 ...m \vcenteredinclude{Pictures/Montage.eps}
+                                                   : Create a montage image ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Montage.eps Graphic file (type eps)
+<Pictures/Montage.eps>
+
+LaTeX Warning: File `Pictures/MontageImage.eps' not found on input line 297.
+
+
+! LaTeX Error: File `Pictures/MontageImage.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.297 ...0.8\textwidth]{Pictures/MontageImage.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MontageImage.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.297 ...0.8\textwidth]{Pictures/MontageImage.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MontageImage.eps Graphic file (type eps)
+<Pictures/MontageImage.eps>
+
+LaTeX Warning: File `Pictures/Fuse.eps' not found on input line 302.
+
+
+! LaTeX Error: File `Pictures/Fuse.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 		\item \vcenteredinclude{Pictures/Fuse.eps}
+                                                   : Overlap two matrices wi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Fuse.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 		\item \vcenteredinclude{Pictures/Fuse.eps}
+                                                   : Overlap two matrices wi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Fuse.eps Graphic file (type eps)
+<Pictures/Fuse.eps>
+
+LaTeX Warning: File `Pictures/Release.eps' not found on input line 302.
+
+
+! LaTeX Error: File `Pictures/Release.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 ...s \vcenteredinclude{Pictures/Release.eps}
+                                                   to remove foreground matr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Release.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 ...s \vcenteredinclude{Pictures/Release.eps}
+                                                   to remove foreground matr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Release.eps Graphic file (type eps)
+<Pictures/Release.eps>
+
+LaTeX Warning: File `Pictures/ImageFuse.eps' not found on input line 306.
+
+
+! LaTeX Error: File `Pictures/ImageFuse.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.306 ...idth=1\textwidth]{Pictures/ImageFuse.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ImageFuse.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.306 ...idth=1\textwidth]{Pictures/ImageFuse.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ImageFuse.eps Graphic file (type eps)
+<Pictures/ImageFuse.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+[12] [13] [14]
+
+LaTeX Warning: File `Pictures/Abs.eps' not found on input line 318.
+
+
+! LaTeX Error: File `Pictures/Abs.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.318 		\item \vcenteredinclude{Pictures/Abs.eps}
+                                                  : Calculate absolute value
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Abs.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.318 		\item \vcenteredinclude{Pictures/Abs.eps}
+                                                  : Calculate absolute value
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Abs.eps Graphic file (type eps)
+<Pictures/Abs.eps>
+
+LaTeX Warning: File `Pictures/Negnate.eps' not found on input line 319.
+
+
+! LaTeX Error: File `Pictures/Negnate.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.319 ...m \vcenteredinclude{Pictures/Negnate.eps}
+                                                   : Calculate negative value
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Negnate.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.319 ...m \vcenteredinclude{Pictures/Negnate.eps}
+                                                   : Calculate negative value
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Negnate.eps Graphic file (type eps)
+<Pictures/Negnate.eps>
+
+LaTeX Warning: File `Pictures/Ln.eps' not found on input line 320.
+
+
+! LaTeX Error: File `Pictures/Ln.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320 		\item \vcenteredinclude{Pictures/Ln.eps}
+                                                 : Calculate natural logarithm
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Ln.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320 		\item \vcenteredinclude{Pictures/Ln.eps}
+                                                 : Calculate natural logarithm
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Ln.eps Graphic file (type eps)
+<Pictures/Ln.eps>
+
+LaTeX Warning: File `Pictures/Log.eps' not found on input line 321.
+
+
+! LaTeX Error: File `Pictures/Log.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321 		\item \vcenteredinclude{Pictures/Log.eps}
+                                                  : Calculate base 10 logarithm
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Log.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321 		\item \vcenteredinclude{Pictures/Log.eps}
+                                                  : Calculate base 10 logarithm
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Log.eps Graphic file (type eps)
+<Pictures/Log.eps>
+
+LaTeX Warning: File `Pictures/Exp.eps' not found on input line 322.
+
+
+! LaTeX Error: File `Pictures/Exp.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 		\item \vcenteredinclude{Pictures/Exp.eps}
+                                                  : Calculate exponential
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Exp.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 		\item \vcenteredinclude{Pictures/Exp.eps}
+                                                  : Calculate exponential
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Exp.eps Graphic file (type eps)
+<Pictures/Exp.eps>
+
+LaTeX Warning: File `Pictures/10n.eps' not found on input line 323.
+
+
+! LaTeX Error: File `Pictures/10n.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.323 		\item \vcenteredinclude{Pictures/10n.eps}
+                                                  : Calculate the power of 10
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/10n.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.323 		\item \vcenteredinclude{Pictures/10n.eps}
+                                                  : Calculate the power of 10
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/10n.eps Graphic file (type eps)
+<Pictures/10n.eps>
+
+LaTeX Warning: File `Pictures/Sin.eps' not found on input line 324.
+
+
+! LaTeX Error: File `Pictures/Sin.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.324 		\item \vcenteredinclude{Pictures/Sin.eps}
+                                                  : Calculate sine
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Sin.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.324 		\item \vcenteredinclude{Pictures/Sin.eps}
+                                                  : Calculate sine
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Sin.eps Graphic file (type eps)
+<Pictures/Sin.eps>
+
+LaTeX Warning: File `Pictures/Cos.eps' not found on input line 325.
+
+
+! LaTeX Error: File `Pictures/Cos.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325 		\item \vcenteredinclude{Pictures/Cos.eps}
+                                                  : Calculate cosine
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Cos.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325 		\item \vcenteredinclude{Pictures/Cos.eps}
+                                                  : Calculate cosine
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Cos.eps Graphic file (type eps)
+<Pictures/Cos.eps>
+
+LaTeX Warning: File `Pictures/Tan.eps' not found on input line 326.
+
+
+! LaTeX Error: File `Pictures/Tan.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 		\item \vcenteredinclude{Pictures/Tan.eps}
+                                                  : Calculate tangent
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Tan.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 		\item \vcenteredinclude{Pictures/Tan.eps}
+                                                  : Calculate tangent
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Tan.eps Graphic file (type eps)
+<Pictures/Tan.eps>
+
+LaTeX Warning: File `Pictures/ASin.eps' not found on input line 327.
+
+
+! LaTeX Error: File `Pictures/ASin.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 		\item \vcenteredinclude{Pictures/ASin.eps}
+                                                   : Calculate inverse sine
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ASin.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 		\item \vcenteredinclude{Pictures/ASin.eps}
+                                                   : Calculate inverse sine
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ASin.eps Graphic file (type eps)
+<Pictures/ASin.eps>
+
+LaTeX Warning: File `Pictures/ACos.eps' not found on input line 328.
+
+
+! LaTeX Error: File `Pictures/ACos.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.328 		\item \vcenteredinclude{Pictures/ACos.eps}
+                                                   : Calculate inverse cosine
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ACos.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.328 		\item \vcenteredinclude{Pictures/ACos.eps}
+                                                   : Calculate inverse cosine
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ACos.eps Graphic file (type eps)
+<Pictures/ACos.eps>
+
+LaTeX Warning: File `Pictures/ATan.eps' not found on input line 329.
+
+
+! LaTeX Error: File `Pictures/ATan.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 		\item \vcenteredinclude{Pictures/ATan.eps}
+                                                   : Calculate inverse tangent
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ATan.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 		\item \vcenteredinclude{Pictures/ATan.eps}
+                                                   : Calculate inverse tangent
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ATan.eps Graphic file (type eps)
+<Pictures/ATan.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+LaTeX Warning: File `Pictures/FlipLR.eps' not found on input line 338.
+
+
+! LaTeX Error: File `Pictures/FlipLR.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 ...em \vcenteredinclude{Pictures/FlipLR.eps}
+                                                   : Flip matrix horizontall...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FlipLR.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 ...em \vcenteredinclude{Pictures/FlipLR.eps}
+                                                   : Flip matrix horizontall...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FlipLR.eps Graphic file (type eps)
+<Pictures/FlipLR.eps>
+
+LaTeX Warning: File `Pictures/FlipUD.eps' not found on input line 339.
+
+
+! LaTeX Error: File `Pictures/FlipUD.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.339 ...em \vcenteredinclude{Pictures/FlipUD.eps}
+                                                   : Flip matrix vertically ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FlipUD.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.339 ...em \vcenteredinclude{Pictures/FlipUD.eps}
+                                                   : Flip matrix vertically ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FlipUD.eps Graphic file (type eps)
+<Pictures/FlipUD.eps>
+
+LaTeX Warning: File `Pictures/FlipZ.eps' not found on input line 340.
+
+
+! LaTeX Error: File `Pictures/FlipZ.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.340 ...tem \vcenteredinclude{Pictures/FlipZ.eps}
+                                                   : Flip matrix along slice...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FlipZ.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.340 ...tem \vcenteredinclude{Pictures/FlipZ.eps}
+                                                   : Flip matrix along slice...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FlipZ.eps Graphic file (type eps)
+<Pictures/FlipZ.eps>
+
+LaTeX Warning: File `Pictures/Rot90L.eps' not found on input line 341.
+
+
+! LaTeX Error: File `Pictures/Rot90L.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.341 ...em \vcenteredinclude{Pictures/Rot90L.eps}
+                                                   : Rotate matrix 90 degree...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Rot90L.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.341 ...em \vcenteredinclude{Pictures/Rot90L.eps}
+                                                   : Rotate matrix 90 degree...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Rot90L.eps Graphic file (type eps)
+<Pictures/Rot90L.eps>
+
+LaTeX Warning: File `Pictures/Rot90R.eps' not found on input line 342.
+
+
+! LaTeX Error: File `Pictures/Rot90R.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 ...em \vcenteredinclude{Pictures/Rot90R.eps}
+                                                   : Rotate matrix 90 degree...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Rot90R.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 ...em \vcenteredinclude{Pictures/Rot90R.eps}
+                                                   : Rotate matrix 90 degree...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Rot90R.eps Graphic file (type eps)
+<Pictures/Rot90R.eps>
+
+LaTeX Warning: File `Pictures/Rotate.eps' not found on input line 343.
+
+
+! LaTeX Error: File `Pictures/Rotate.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.343 ...em \vcenteredinclude{Pictures/Rotate.eps}
+                                                   : Rotate matrix certain d...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Rotate.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.343 ...em \vcenteredinclude{Pictures/Rotate.eps}
+                                                   : Rotate matrix certain d...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Rotate.eps Graphic file (type eps)
+<Pictures/Rotate.eps>
+
+LaTeX Warning: File `Pictures/Translate.eps' not found on input line 344.
+
+
+! LaTeX Error: File `Pictures/Translate.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 ...\vcenteredinclude{Pictures/Translate.eps}
+                                                   : Translate matrix along ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Translate.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 ...\vcenteredinclude{Pictures/Translate.eps}
+                                                   : Translate matrix along ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Translate.eps Graphic file (type eps)
+<Pictures/Translate.eps> [15]
+
+LaTeX Warning: File `Pictures/FFT.eps' not found on input line 345.
+
+
+! LaTeX Error: File `Pictures/FFT.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345 		\item \vcenteredinclude{Pictures/FFT.eps}
+                                                  : Perform multi-dimensiona...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FFT.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345 		\item \vcenteredinclude{Pictures/FFT.eps}
+                                                  : Perform multi-dimensiona...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FFT.eps Graphic file (type eps)
+<Pictures/FFT.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+
+LaTeX Warning: File `Pictures/Mask.eps' not found on input line 354.
+
+
+! LaTeX Error: File `Pictures/Mask.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.354 		\item \vcenteredinclude{Pictures/Mask.eps}
+                                                   : Create binary mask acco...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Mask.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.354 		\item \vcenteredinclude{Pictures/Mask.eps}
+                                                   : Create binary mask acco...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Mask.eps Graphic file (type eps)
+<Pictures/Mask.eps>
+
+LaTeX Warning: File `Pictures/Smooth.eps' not found on input line 355.
+
+
+! LaTeX Error: File `Pictures/Smooth.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 ...em \vcenteredinclude{Pictures/Smooth.eps}
+                                                   : Perform smoothing opera...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Smooth.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 ...em \vcenteredinclude{Pictures/Smooth.eps}
+                                                   : Perform smoothing opera...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Smooth.eps Graphic file (type eps)
+<Pictures/Smooth.eps>
+
+LaTeX Warning: File `Pictures/Sharpen.eps' not found on input line 356.
+
+
+! LaTeX Error: File `Pictures/Sharpen.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 ...m \vcenteredinclude{Pictures/Sharpen.eps}
+                                                   : Perform sharpening oper...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Sharpen.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 ...m \vcenteredinclude{Pictures/Sharpen.eps}
+                                                   : Perform sharpening oper...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Sharpen.eps Graphic file (type eps)
+<Pictures/Sharpen.eps>
+
+LaTeX Warning: File `Pictures/Edge.eps' not found on input line 357.
+
+
+! LaTeX Error: File `Pictures/Edge.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.357 		\item \vcenteredinclude{Pictures/Edge.eps}
+                                                   : Perform edge detection ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Edge.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.357 		\item \vcenteredinclude{Pictures/Edge.eps}
+                                                   : Perform edge detection ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Edge.eps Graphic file (type eps)
+<Pictures/Edge.eps>
+
+LaTeX Warning: File `Pictures/Filter.eps' not found on input line 358.
+
+
+! LaTeX Error: File `Pictures/Filter.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.358 ...em \vcenteredinclude{Pictures/Filter.eps}
+                                                   : Provides various image ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Filter.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.358 ...em \vcenteredinclude{Pictures/Filter.eps}
+                                                   : Provides various image ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Filter.eps Graphic file (type eps)
+<Pictures/Filter.eps>
+
+LaTeX Warning: File `Pictures/FilterResult.eps' not found on input line 363.
+
+
+! LaTeX Error: File `Pictures/FilterResult.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.363 ...0.6\textwidth]{Pictures/FilterResult.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FilterResult.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.363 ...0.6\textwidth]{Pictures/FilterResult.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FilterResult.eps Graphic file (type eps)
+<Pictures/FilterResult.eps>
+
+LaTeX Warning: File `Pictures/Noise.eps' not found on input line 369.
+
+
+! LaTeX Error: File `Pictures/Noise.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.369 ...tem \vcenteredinclude{Pictures/Noise.eps}
+                                                   : Add noise to matrix (Fi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Noise.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.369 ...tem \vcenteredinclude{Pictures/Noise.eps}
+                                                   : Add noise to matrix (Fi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Noise.eps Graphic file (type eps)
+<Pictures/Noise.eps>
+
+LaTeX Warning: File `Pictures/NoiseResult.eps' not found on input line 373.
+
+
+! LaTeX Error: File `Pictures/NoiseResult.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.373 ...=0.6\textwidth]{Pictures/NoiseResult.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/NoiseResult.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.373 ...=0.6\textwidth]{Pictures/NoiseResult.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/NoiseResult.eps Graphic file (type eps)
+<Pictures/NoiseResult.eps>
+
+LaTeX Warning: File `Pictures/FillOut.eps' not found on input line 379.
+
+
+! LaTeX Error: File `Pictures/FillOut.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 ...m \vcenteredinclude{Pictures/FillOut.eps}
+                                                   : Replace voxel value for...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FillOut.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 ...m \vcenteredinclude{Pictures/FillOut.eps}
+                                                   : Replace voxel value for...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FillOut.eps Graphic file (type eps)
+<Pictures/FillOut.eps> [16]
+
+LaTeX Warning: File `Pictures/FillIn.eps' not found on input line 380.
+
+
+! LaTeX Error: File `Pictures/FillIn.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.380 ...em \vcenteredinclude{Pictures/FillIn.eps}
+                                                   : Replace voxel value for...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FillIn.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.380 ...em \vcenteredinclude{Pictures/FillIn.eps}
+                                                   : Replace voxel value for...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FillIn.eps Graphic file (type eps)
+<Pictures/FillIn.eps>
+
+LaTeX Warning: File `Pictures/Fill.eps' not found on input line 381.
+
+
+! LaTeX Error: File `Pictures/Fill.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.381 		\item \vcenteredinclude{Pictures/Fill.eps}
+                                                   : Replace voxel value for...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Fill.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.381 		\item \vcenteredinclude{Pictures/Fill.eps}
+                                                   : Replace voxel value for...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Fill.eps Graphic file (type eps)
+<Pictures/Fill.eps>
+
+LaTeX Warning: File `Pictures/Replace.eps' not found on input line 382.
+
+
+! LaTeX Error: File `Pictures/Replace.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.382 ...m \vcenteredinclude{Pictures/Replace.eps}
+                                                   : Replace matrix area wit...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Replace.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.382 ...m \vcenteredinclude{Pictures/Replace.eps}
+                                                   : Replace matrix area wit...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Replace.eps Graphic file (type eps)
+<Pictures/Replace.eps>
+
+LaTeX Warning: File `Pictures/Crop.eps' not found on input line 383.
+
+
+! LaTeX Error: File `Pictures/Crop.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.383 		\item \vcenteredinclude{Pictures/Crop.eps}
+                                                   : Crop current matrix usi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Crop.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.383 		\item \vcenteredinclude{Pictures/Crop.eps}
+                                                   : Crop current matrix usi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Crop.eps Graphic file (type eps)
+<Pictures/Crop.eps>
+
+LaTeX Warning: File `Pictures/Extract.eps' not found on input line 384.
+
+
+! LaTeX Error: File `Pictures/Extract.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.384 ...m \vcenteredinclude{Pictures/Extract.eps}
+                                                   : Extract parts of curren...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Extract.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.384 ...m \vcenteredinclude{Pictures/Extract.eps}
+                                                   : Extract parts of curren...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Extract.eps Graphic file (type eps)
+<Pictures/Extract.eps>
+
+LaTeX Warning: File `Pictures/Resolution.eps' not found on input line 385.
+
+
+! LaTeX Error: File `Pictures/Resolution.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.385 ...vcenteredinclude{Pictures/Resolution.eps}
+                                                   : Resample current matrix...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Resolution.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.385 ...vcenteredinclude{Pictures/Resolution.eps}
+                                                   : Resample current matrix...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Resolution.eps Graphic file (type eps)
+<Pictures/Resolution.eps>
+Overfull \hbox (0.89413pt too wide) in paragraph at lines 385--386
+[][]$[]$ \OT1/cmr/m/n/10 : Re-sam-ple cur-rent ma-trix by us-ing cho-sen in-ter-po-la-tion method
+ []
+
+[17]
+
+LaTeX Warning: File `Pictures/ChangeResolution.eps' not found on input line 389.
+
+
+! LaTeX Error: File `Pictures/ChangeResolution.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.389 ...textwidth]{Pictures/ChangeResolution.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ChangeResolution.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.389 ...textwidth]{Pictures/ChangeResolution.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ChangeResolution.eps Graphic file (type eps)
+<Pictures/ChangeResolution.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+
+ []
+
+
+LaTeX Warning: File `Pictures/FreeROI.eps' not found on input line 402.
+
+
+! LaTeX Error: File `Pictures/FreeROI.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.402 ...m \vcenteredinclude{Pictures/FreeROI.eps}
+                                                   : Draw a free hand ROI
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FreeROI.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.402 ...m \vcenteredinclude{Pictures/FreeROI.eps}
+                                                   : Draw a free hand ROI
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FreeROI.eps Graphic file (type eps)
+<Pictures/FreeROI.eps>
+
+LaTeX Warning: File `Pictures/RectangleROI.eps' not found on input line 403.
+
+
+! LaTeX Error: File `Pictures/RectangleROI.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.403 ...enteredinclude{Pictures/RectangleROI.eps}
+                                                   : Draw a rectangle or squ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/RectangleROI.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.403 ...enteredinclude{Pictures/RectangleROI.eps}
+                                                   : Draw a rectangle or squ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/RectangleROI.eps Graphic file (type eps)
+<Pictures/RectangleROI.eps>
+
+LaTeX Warning: File `Pictures/CircleROI.eps' not found on input line 404.
+
+
+! LaTeX Error: File `Pictures/CircleROI.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.404 ...\vcenteredinclude{Pictures/CircleROI.eps}
+                                                   : Draw a circle or ellips...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/CircleROI.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.404 ...\vcenteredinclude{Pictures/CircleROI.eps}
+                                                   : Draw a circle or ellips...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/CircleROI.eps Graphic file (type eps)
+<Pictures/CircleROI.eps>
+
+LaTeX Warning: File `Pictures/PolygonROI.eps' not found on input line 405.
+
+
+! LaTeX Error: File `Pictures/PolygonROI.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.405 ...vcenteredinclude{Pictures/PolygonROI.eps}
+                                                   : Draw a polygon ROI
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/PolygonROI.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.405 ...vcenteredinclude{Pictures/PolygonROI.eps}
+                                                   : Draw a polygon ROI
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/PolygonROI.eps Graphic file (type eps)
+<Pictures/PolygonROI.eps>
+
+LaTeX Warning: File `Pictures/LineROI.eps' not found on input line 406.
+
+
+! LaTeX Error: File `Pictures/LineROI.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 ...m \vcenteredinclude{Pictures/LineROI.eps}
+                                                   : Draw a straight line fo...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/LineROI.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 ...m \vcenteredinclude{Pictures/LineROI.eps}
+                                                   : Draw a straight line fo...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/LineROI.eps Graphic file (type eps)
+<Pictures/LineROI.eps>
+
+LaTeX Warning: File `Pictures/AngleROI.eps' not found on input line 407.
+
+
+! LaTeX Error: File `Pictures/AngleROI.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.407 ... \vcenteredinclude{Pictures/AngleROI.eps}
+                                                   : Draw a polygon for meas...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/AngleROI.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.407 ... \vcenteredinclude{Pictures/AngleROI.eps}
+                                                   : Draw a polygon for meas...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/AngleROI.eps Graphic file (type eps)
+<Pictures/AngleROI.eps>
+
+LaTeX Warning: File `Pictures/ROIManager.eps' not found on input line 408.
+
+
+! LaTeX Error: File `Pictures/ROIManager.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.408 ...vcenteredinclude{Pictures/ROIManager.eps}
+                                                   : Record existing ROI sha...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ROIManager.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.408 ...vcenteredinclude{Pictures/ROIManager.eps}
+                                                   : Record existing ROI sha...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ROIManager.eps Graphic file (type eps)
+<Pictures/ROIManager.eps> [18]
+
+LaTeX Warning: File `Pictures/Histogram.eps' not found on input line 409.
+
+
+! LaTeX Error: File `Pictures/Histogram.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.409 ...\vcenteredinclude{Pictures/Histogram.eps}
+                                                   : Plot histogram for curr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Histogram.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.409 ...\vcenteredinclude{Pictures/Histogram.eps}
+                                                   : Plot histogram for curr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Histogram.eps Graphic file (type eps)
+<Pictures/Histogram.eps>
+
+LaTeX Warning: File `Pictures/ROIs.eps' not found on input line 414.
+
+
+! LaTeX Error: File `Pictures/ROIs.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.414 ...ics[width=1\textwidth]{Pictures/ROIs.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ROIs.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.414 ...ics[width=1\textwidth]{Pictures/ROIs.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ROIs.eps Graphic file (type eps)
+<Pictures/ROIs.eps>
+
+LaTeX Warning: File `Pictures/Hist.eps' not found on input line 422.
+
+
+! LaTeX Error: File `Pictures/Hist.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.422 ...s[width=0.6\textwidth]{Pictures/Hist.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Hist.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.422 ...s[width=0.6\textwidth]{Pictures/Hist.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Hist.eps Graphic file (type eps)
+<Pictures/Hist.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
+
+ []
+
+[19]
+
+LaTeX Warning: File `Pictures/FreeSeg.eps' not found on input line 432.
+
+
+! LaTeX Error: File `Pictures/FreeSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.432 ...m \vcenteredinclude{Pictures/FreeSeg.eps}
+                                                   : Do a free-hand segmenta...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/FreeSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.432 ...m \vcenteredinclude{Pictures/FreeSeg.eps}
+                                                   : Do a free-hand segmenta...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/FreeSeg.eps Graphic file (type eps)
+<Pictures/FreeSeg.eps>
+
+LaTeX Warning: File `Pictures/CircleSeg.eps' not found on input line 433.
+
+
+! LaTeX Error: File `Pictures/CircleSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.433 ...\vcenteredinclude{Pictures/CircleSeg.eps}
+                                                   : Do a circle or ellipse ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/CircleSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.433 ...\vcenteredinclude{Pictures/CircleSeg.eps}
+                                                   : Do a circle or ellipse ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/CircleSeg.eps Graphic file (type eps)
+<Pictures/CircleSeg.eps>
+
+LaTeX Warning: File `Pictures/PolygonSeg.eps' not found on input line 434.
+
+
+! LaTeX Error: File `Pictures/PolygonSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.434 ...vcenteredinclude{Pictures/PolygonSeg.eps}
+                                                   : Do a polygon segmentation
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/PolygonSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.434 ...vcenteredinclude{Pictures/PolygonSeg.eps}
+                                                   : Do a polygon segmentation
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/PolygonSeg.eps Graphic file (type eps)
+<Pictures/PolygonSeg.eps>
+
+LaTeX Warning: File `Pictures/EditSeg.eps' not found on input line 435.
+
+
+! LaTeX Error: File `Pictures/EditSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.435 ...m \vcenteredinclude{Pictures/EditSeg.eps}
+                                                   : Edit segmentation
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/EditSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.435 ...m \vcenteredinclude{Pictures/EditSeg.eps}
+                                                   : Edit segmentation
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/EditSeg.eps Graphic file (type eps)
+<Pictures/EditSeg.eps>
+
+LaTeX Warning: File `Pictures/SaveSeg.eps' not found on input line 436.
+
+
+! LaTeX Error: File `Pictures/SaveSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.436 ...m \vcenteredinclude{Pictures/SaveSeg.eps}
+                                                   : Save segmentation into ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/SaveSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.436 ...m \vcenteredinclude{Pictures/SaveSeg.eps}
+                                                   : Save segmentation into ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/SaveSeg.eps Graphic file (type eps)
+<Pictures/SaveSeg.eps>
+
+LaTeX Warning: File `Pictures/LoadSeg.eps' not found on input line 437.
+
+
+! LaTeX Error: File `Pictures/LoadSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.437 ...m \vcenteredinclude{Pictures/LoadSeg.eps}
+                                                   : Load segmentation from ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/LoadSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.437 ...m \vcenteredinclude{Pictures/LoadSeg.eps}
+                                                   : Load segmentation from ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/LoadSeg.eps Graphic file (type eps)
+<Pictures/LoadSeg.eps>
+
+LaTeX Warning: File `Pictures/Segs.eps' not found on input line 443.
+
+
+! LaTeX Error: File `Pictures/Segs.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.443 ...s[width=0.8\textwidth]{Pictures/Segs.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Segs.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.443 ...s[width=0.8\textwidth]{Pictures/Segs.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Segs.eps Graphic file (type eps)
+<Pictures/Segs.eps>
+
+LaTeX Warning: File `Pictures/EditSeg.eps' not found on input line 448.
+
+
+! LaTeX Error: File `Pictures/EditSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...s \vcenteredinclude{Pictures/EditSeg.eps}
+                                                   to open a segmentation ma...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/EditSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...s \vcenteredinclude{Pictures/EditSeg.eps}
+                                                   to open a segmentation ma...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/EditSeg.eps Graphic file (type eps)
+<Pictures/EditSeg.eps>
+
+LaTeX Warning: File `Pictures/SaveSeg.eps' not found on input line 448.
+
+
+! LaTeX Error: File `Pictures/SaveSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...s \vcenteredinclude{Pictures/SaveSeg.eps}
+                                                   to save current segmentat...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/SaveSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...s \vcenteredinclude{Pictures/SaveSeg.eps}
+                                                   to save current segmentat...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/SaveSeg.eps Graphic file (type eps)
+<Pictures/SaveSeg.eps>
+
+LaTeX Warning: File `Pictures/Upload.eps' not found on input line 448.
+
+
+! LaTeX Error: File `Pictures/Upload.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...ss \vcenteredinclude{Pictures/Upload.eps}
+                                                   to save the mask matrix i...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Upload.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...ss \vcenteredinclude{Pictures/Upload.eps}
+                                                   to save the mask matrix i...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Upload.eps Graphic file (type eps)
+<Pictures/Upload.eps>
+
+LaTeX Warning: File `Pictures/LoadSeg.eps' not found on input line 448.
+
+
+! LaTeX Error: File `Pictures/LoadSeg.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...g \vcenteredinclude{Pictures/LoadSeg.eps}
+                                                   can load previous segment...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/LoadSeg.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...g \vcenteredinclude{Pictures/LoadSeg.eps}
+                                                   can load previous segment...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/LoadSeg.eps Graphic file (type eps)
+<Pictures/LoadSeg.eps>
+
+LaTeX Warning: File `Pictures/Release.eps' not found on input line 448.
+
+
+! LaTeX Error: File `Pictures/Release.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...s \vcenteredinclude{Pictures/Release.eps}
+                                                   to remove segmentation fr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Release.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.448 ...s \vcenteredinclude{Pictures/Release.eps}
+                                                   to remove segmentation fr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Release.eps Graphic file (type eps)
+<Pictures/Release.eps> [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+
+ []
+
+
+LaTeX Warning: File `Pictures/Contour.eps' not found on input line 455.
+
+
+! LaTeX Error: File `Pictures/Contour.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.455 ...m \vcenteredinclude{Pictures/Contour.eps}
+                                                   : Create contour plot of ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Contour.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.455 ...m \vcenteredinclude{Pictures/Contour.eps}
+                                                   : Create contour plot of ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Contour.eps Graphic file (type eps)
+<Pictures/Contour.eps>
+
+LaTeX Warning: File `Pictures/Contour3.eps' not found on input line 456.
+
+
+! LaTeX Error: File `Pictures/Contour3.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.456 ... \vcenteredinclude{Pictures/Contour3.eps}
+                                                   : Create 3D contour plot ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Contour3.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.456 ... \vcenteredinclude{Pictures/Contour3.eps}
+                                                   : Create 3D contour plot ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Contour3.eps Graphic file (type eps)
+<Pictures/Contour3.eps>
+
+LaTeX Warning: File `Pictures/ContourFill.eps' not found on input line 457.
+
+
+! LaTeX Error: File `Pictures/ContourFill.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.457 ...centeredinclude{Pictures/ContourFill.eps}
+                                                   : Create filled 2D contou...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/ContourFill.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.457 ...centeredinclude{Pictures/ContourFill.eps}
+                                                   : Create filled 2D contou...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/ContourFill.eps Graphic file (type eps)
+<Pictures/ContourFill.eps>
+
+LaTeX Warning: File `Pictures/Surface.eps' not found on input line 458.
+
+
+! LaTeX Error: File `Pictures/Surface.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.458 ...m \vcenteredinclude{Pictures/Surface.eps}
+                                                   : Create 3D shaded surfac...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Surface.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.458 ...m \vcenteredinclude{Pictures/Surface.eps}
+                                                   : Create 3D shaded surfac...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Surface.eps Graphic file (type eps)
+<Pictures/Surface.eps>
+
+LaTeX Warning: File `Pictures/SurfaceCon.eps' not found on input line 459.
+
+
+! LaTeX Error: File `Pictures/SurfaceCon.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.459 ...vcenteredinclude{Pictures/SurfaceCon.eps}
+                                                   : Create surface plot and...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/SurfaceCon.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.459 ...vcenteredinclude{Pictures/SurfaceCon.eps}
+                                                   : Create surface plot and...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/SurfaceCon.eps Graphic file (type eps)
+<Pictures/SurfaceCon.eps>
+
+LaTeX Warning: File `Pictures/SurfaceCol.eps' not found on input line 460.
+
+
+! LaTeX Error: File `Pictures/SurfaceCol.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.460 ...vcenteredinclude{Pictures/SurfaceCol.eps}
+                                                   : Create surface plot wit...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/SurfaceCol.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.460 ...vcenteredinclude{Pictures/SurfaceCol.eps}
+                                                   : Create surface plot wit...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/SurfaceCol.eps Graphic file (type eps)
+<Pictures/SurfaceCol.eps>
+
+LaTeX Warning: File `Pictures/Mesh.eps' not found on input line 461.
+
+
+! LaTeX Error: File `Pictures/Mesh.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.461 		\item \vcenteredinclude{Pictures/Mesh.eps}
+                                                   : Create mesh plot
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Mesh.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.461 		\item \vcenteredinclude{Pictures/Mesh.eps}
+                                                   : Create mesh plot
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Mesh.eps Graphic file (type eps)
+<Pictures/Mesh.eps>
+
+LaTeX Warning: File `Pictures/MeshCon.eps' not found on input line 462.
+
+
+! LaTeX Error: File `Pictures/MeshCon.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.462 ...m \vcenteredinclude{Pictures/MeshCon.eps}
+                                                   : Create mesh plot and co...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MeshCon.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.462 ...m \vcenteredinclude{Pictures/MeshCon.eps}
+                                                   : Create mesh plot and co...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MeshCon.eps Graphic file (type eps)
+<Pictures/MeshCon.eps>
+
+LaTeX Warning: File `Pictures/MeshC.eps' not found on input line 463.
+
+
+! LaTeX Error: File `Pictures/MeshC.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.463 ...tem \vcenteredinclude{Pictures/MeshC.eps}
+                                                   : Create a curtain around...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MeshC.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.463 ...tem \vcenteredinclude{Pictures/MeshC.eps}
+                                                   : Create a curtain around...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MeshC.eps Graphic file (type eps)
+<Pictures/MeshC.eps>
+
+LaTeX Warning: File `Pictures/Reb.eps' not found on input line 464.
+
+
+! LaTeX Error: File `Pictures/Reb.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.464 		\item \vcenteredinclude{Pictures/Reb.eps}
+                                                  : Create a ribbon plot
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Reb.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.464 		\item \vcenteredinclude{Pictures/Reb.eps}
+                                                  : Create a ribbon plot
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Reb.eps Graphic file (type eps)
+<Pictures/Reb.eps>
+
+LaTeX Warning: File `Pictures/Waterfall.eps' not found on input line 465.
+
+
+! LaTeX Error: File `Pictures/Waterfall.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.465 ...\vcenteredinclude{Pictures/Waterfall.eps}
+                                                   : Create a waterfall plot
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Waterfall.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.465 ...\vcenteredinclude{Pictures/Waterfall.eps}
+                                                   : Create a waterfall plot
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Waterfall.eps Graphic file (type eps)
+<Pictures/Waterfall.eps>
+
+LaTeX Warning: File `Pictures/Pcolor.eps' not found on input line 466.
+
+
+! LaTeX Error: File `Pictures/Pcolor.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.466 ...em \vcenteredinclude{Pictures/Pcolor.eps}
+                                                   : Create pcolor (checkerb...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Pcolor.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.466 ...em \vcenteredinclude{Pictures/Pcolor.eps}
+                                                   : Create pcolor (checkerb...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Pcolor.eps Graphic file (type eps)
+<Pictures/Pcolor.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+LaTeX Warning: File `Pictures/imtool.eps' not found on input line 475.
+
+
+! LaTeX Error: File `Pictures/imtool.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.475 ...em \vcenteredinclude{Pictures/imtool.eps}
+                                                   : Perform imtool for curr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/imtool.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.475 ...em \vcenteredinclude{Pictures/imtool.eps}
+                                                   : Perform imtool for curr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/imtool.eps Graphic file (type eps)
+<Pictures/imtool.eps>
+
+LaTeX Warning: File `Pictures/immovie.eps' not found on input line 476.
+
+
+! LaTeX Error: File `Pictures/immovie.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.476 ...m \vcenteredinclude{Pictures/immovie.eps}
+                                                   : Perform immovie for pla...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/immovie.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.476 ...m \vcenteredinclude{Pictures/immovie.eps}
+                                                   : Perform immovie for pla...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/immovie.eps Graphic file (type eps)
+<Pictures/immovie.eps> [22]
+
+LaTeX Warning: File `Pictures/imcontrast.eps' not found on input line 477.
+
+
+! LaTeX Error: File `Pictures/imcontrast.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.477 ...vcenteredinclude{Pictures/imcontrast.eps}
+                                                   : Perform imcontrast for ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/imcontrast.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.477 ...vcenteredinclude{Pictures/imcontrast.eps}
+                                                   : Perform imcontrast for ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/imcontrast.eps Graphic file (type eps)
+<Pictures/imcontrast.eps>
+
+LaTeX Warning: File `Pictures/matlabIM.eps' not found on input line 482.
+
+
+! LaTeX Error: File `Pictures/matlabIM.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.482 ...dth=0.7\textwidth]{Pictures/matlabIM.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/matlabIM.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.482 ...dth=0.7\textwidth]{Pictures/matlabIM.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/matlabIM.eps Graphic file (type eps)
+<Pictures/matlabIM.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+
+ []
+
+
+LaTeX Warning: File `Pictures/3DRender.eps' not found on input line 492.
+
+
+! LaTeX Error: File `Pictures/3DRender.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.492 ... \vcenteredinclude{Pictures/3DRender.eps}
+                                                   : Create a 3D graph for r...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/3DRender.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.492 ... \vcenteredinclude{Pictures/3DRender.eps}
+                                                   : Create a 3D graph for r...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/3DRender.eps Graphic file (type eps)
+<Pictures/3DRender.eps>
+
+LaTeX Warning: File `Pictures/BrainRender.eps' not found on input line 496.
+
+
+! LaTeX Error: File `Pictures/BrainRender.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.496 ...th=1\textwidth]{Pictures/BrainRender.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/BrainRender.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.496 ...th=1\textwidth]{Pictures/BrainRender.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/BrainRender.eps Graphic file (type eps)
+<Pictures/BrainRender.eps>
+
+LaTeX Warning: File `Pictures/MIP.eps' not found on input line 501.
+
+
+! LaTeX Error: File `Pictures/MIP.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.501 		\item \vcenteredinclude{Pictures/MIP.eps}
+                                                  : Perform projection along...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MIP.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.501 		\item \vcenteredinclude{Pictures/MIP.eps}
+                                                  : Perform projection along...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MIP.eps Graphic file (type eps)
+<Pictures/MIP.eps>
+
+LaTeX Warning: File `Pictures/MIP3D.eps' not found on input line 502.
+
+
+! LaTeX Error: File `Pictures/MIP3D.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.502 ...tem \vcenteredinclude{Pictures/MIP3D.eps}
+                                                   : Perform 3D projection a...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/MIP3D.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.502 ...tem \vcenteredinclude{Pictures/MIP3D.eps}
+                                                   : Perform 3D projection a...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/MIP3D.eps Graphic file (type eps)
+<Pictures/MIP3D.eps>
+
+LaTeX Warning: File `Pictures/3DMIP.eps' not found on input line 507.
+
+
+! LaTeX Error: File `Pictures/3DMIP.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.507 ...cs[width=1\textwidth]{Pictures/3DMIP.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/3DMIP.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.507 ...cs[width=1\textwidth]{Pictures/3DMIP.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/3DMIP.eps Graphic file (type eps)
+<Pictures/3DMIP.eps>
+
+LaTeX Warning: File `Pictures/3DReslice.eps' not found on input line 512.
+
+
+! LaTeX Error: File `Pictures/3DReslice.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.512 ...\vcenteredinclude{Pictures/3DReslice.eps}
+                                                   : Reslice 3D matrix at gi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/3DReslice.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.512 ...\vcenteredinclude{Pictures/3DReslice.eps}
+                                                   : Reslice 3D matrix at gi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/3DReslice.eps Graphic file (type eps)
+<Pictures/3DReslice.eps>
+
+LaTeX Warning: File `Pictures/Moive.eps' not found on input line 513.
+
+
+! LaTeX Error: File `Pictures/Moive.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.513 ...tem \vcenteredinclude{Pictures/Moive.eps}
+                                                   : Create a movie using cu...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Moive.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.513 ...tem \vcenteredinclude{Pictures/Moive.eps}
+                                                   : Create a movie using cu...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Moive.eps Graphic file (type eps)
+<Pictures/Moive.eps> [23] [24] [25]
+
+LaTeX Warning: File `Pictures/Reslice.eps' not found on input line 518.
+
+
+! LaTeX Error: File `Pictures/Reslice.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.518 ...[width=1\textwidth]{Pictures/Reslice.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in Pictures/Reslice.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.518 ...[width=1\textwidth]{Pictures/Reslice.eps}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Pictures/Reslice.eps Graphic file (type eps)
+<Pictures/Reslice.eps> [26]
+(D:\Dropbox\Write\MatrixUser\v2.2\MatrixUser_Web\manual\MatrixUser_User_Guide_v2_2\MatrixUser_User_Guide.aux) ) 
+Here is how much of TeX's memory you used:
+ 2382 strings out of 493922
+ 31601 string characters out of 3147308
+ 83727 words of memory out of 3000000
+ 5543 multiletter control sequences out of 15000+200000
+ 11364 words of font info for 45 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,6n,24p,1061b,388s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on MatrixUser_User_Guide.dvi (26 pages, 63748 bytes).

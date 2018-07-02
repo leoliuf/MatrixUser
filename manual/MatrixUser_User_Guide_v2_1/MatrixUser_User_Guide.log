@@ -1,0 +1,705 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.5.20)  4 FEB 2014 14:46
+entering extended mode
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx\HCode\def\HCod
+e##1{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.{\g
+@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\doc
+umentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname te
+x4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{\HC
+ode}{\documentstyle[tex4ht]}}}\makeatother\HCode epsconfig.cfg.a.b.c.\input  Ma
+trixUser_User_Guide.tex
+(c:\Users\fliu\Desktop\MatrixUser_User_Guide\MatrixUser_User_Guide.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\tex4ht.sty"
+version 2008-10-27-17:23
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\usepackage.4ht"
+version 2009-05-21-09:32
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty"
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))))
+\c@section@level=\count99
+LaTeX Info: Redefining \ref on input line 353.
+LaTeX Info: Redefining \pageref on input line 353.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@theorem=\count100
+
+(c:\Users\fliu\Desktop\MatrixUser_User_Guide\epsconfig.cfg
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\tex4ht.4ht"
+version 2009-01-07-07:11
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\tex4ht.sty"
+version 2008-10-27-17:23
+
+--- needs --- tex4ht MatrixUser_User_Guide ---
+\tmp:cnt=\count101
+(c:\Users\fliu\Desktop\MatrixUser_User_Guide\MatrixUser_User_Guide.tmp)
+\tmp:dim=\skip46
+--------------------------------------
+--- Note --- for XML code, use the command line option `xml' or `xhtml'
+--------------------------------------
+
+(c:\Users\fliu\Desktop\MatrixUser_User_Guide\MatrixUser_User_Guide.xref)
+\:refout=\write3
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+)
+\:tokwrite=\toks21
+\:tokpage=\toks22
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\:tocout=\write4
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\latex.4ht"
+version 2009-05-21-09:32
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\fontmath.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\article.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\amsmath.4ht"
+version 2009-05-21-09:32
+\tmp:muskip=\muskip12
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\amstext.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\amsbsy.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\amsopn.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\amsfonts.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\amssymb.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\graphicx.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\graphics.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\dvips.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\nameref.4ht"
+version 2010-09-04-21:02
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\url.4ht"
+version 2009-05-21-09:32
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for URL encoding within href use the command line option `url-enc'
+
+--------------------------------------
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht"
+version 2009-05-18-23:01
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\tex4ht\html4-math.4ht"
+version 2009-05-18-23:01
+))
+(c:\Users\fliu\Desktop\MatrixUser_User_Guide\MatrixUser_User_Guide.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+--- file MatrixUser_User_Guide.css ---
+)
+[1
+
+] [2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 69.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 69.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(c:\Users\fliu\Desktop\MatrixUser_User_Guide\MatrixUser_User_Guide.4ct)
+[3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 87.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 87.
+ [4] [5
+
+]
+l. 98 --- needs --- Pictures/MatrixUser.png ---
+ [6
+
+]
+l. 128 --- needs --- Pictures/LoadFromBinary.png ---
+
+[7
+
+]
+l. 139 --- needs --- Pictures/LoadFromDICOM.png ---
+ [8] [9
+
+]
+l. 162 --- needs --- Pictures/MatrixUserDisplayPanel.png ---
+ [10
+
+]
+l. 175 --- needs --- Pictures/SaveFig.png ---
+l. 176 --- needs --- Pictures/ZoomIn.png ---
+l. 177 --- needs --- Pictures/ZoomOut.png ---
+l. 178 --- needs --- Pictures/Pan.png ---
+l. 179 --- needs --- Pictures/DataCursor.png ---
+l. 180 --- needs --- Pictures/Print.png ---
+l. 181 --- needs --- Pictures/Colorbar.png ---
+ [11
+
+]
+l. 204 --- needs --- Pictures/MatrixCalc.png ---
+l. 204 --- needs --- Pictures/Upload.png ---
+l. 215 --- needs --- Pictures/MatrixCalcExample.png ---
+ [12] [13]
+l. 253 --- needs --- Pictures/Release.png ---
+l. 254 --- needs --- Pictures/Grid.png ---
+l. 255 --- needs --- Pictures/Magnifier.png ---
+l. 256 --- needs --- Pictures/LineProfile.png ---
+l. 260 --- needs --- Pictures/BrainProfile.png ---
+l. 267 --- needs --- Pictures/DimProfile.png ---
+l. 271 --- needs --- Pictures/DimProfileWindow.png ---
+l. 276 --- needs --- Pictures/3DSlicer.png ---
+l. 279 --- needs --- Pictures/RedBar.png ---
+l. 280 --- needs --- Pictures/YellowBar.png ---
+l. 281 --- needs --- Pictures/Switch.png ---
+l. 281 --- needs --- Pictures/Upload.png ---
+ [14]
+l. 286 --- needs --- Pictures/3DSlice.png ---
+l. 291 --- needs --- Pictures/RGBImage.png ---
+l. 292 --- needs --- Pictures/Montage.png ---
+l. 296 --- needs --- Pictures/MontageImage.png ---
+l. 301 --- needs --- Pictures/Fuse.png ---
+l. 301 --- needs --- Pictures/Release.png ---
+l. 305 --- needs --- Pictures/ImageFuse.png ---
+l. 317 --- needs --- Pictures/Abs.png ---
+l. 318 --- needs --- Pictures/Negnate.png ---
+l. 319 --- needs --- Pictures/Ln.png ---
+l. 320 --- needs --- Pictures/Log.png ---
+ [15]
+l. 321 --- needs --- Pictures/Exp.png ---
+l. 322 --- needs --- Pictures/10n.png ---
+l. 323 --- needs --- Pictures/Sin.png ---
+l. 324 --- needs --- Pictures/Cos.png ---
+l. 325 --- needs --- Pictures/Tan.png ---
+l. 326 --- needs --- Pictures/ASin.png ---
+l. 327 --- needs --- Pictures/ACos.png ---
+l. 328 --- needs --- Pictures/ATan.png ---
+l. 337 --- needs --- Pictures/FlipLR.png ---
+l. 338 --- needs --- Pictures/FlipUD.png ---
+l. 339 --- needs --- Pictures/FlipZ.png ---
+l. 340 --- needs --- Pictures/Rot90L.png ---
+l. 341 --- needs --- Pictures/Rot90R.png ---
+l. 342 --- needs --- Pictures/Rotate.png ---
+l. 343 --- needs --- Pictures/Translate.png ---
+ [16]
+l. 344 --- needs --- Pictures/FFT.png ---
+l. 353 --- needs --- Pictures/Mask.png ---
+l. 354 --- needs --- Pictures/Smooth.png ---
+l. 355 --- needs --- Pictures/Sharpen.png ---
+l. 356 --- needs --- Pictures/Edge.png ---
+l. 357 --- needs --- Pictures/Filter.png ---
+l. 362 --- needs --- Pictures/FilterResult.png ---
+l. 368 --- needs --- Pictures/Noise.png ---
+l. 372 --- needs --- Pictures/NoiseResult.png ---
+l. 378 --- needs --- Pictures/FillOut.png ---
+l. 379 --- needs --- Pictures/FillIn.png ---
+l. 380 --- needs --- Pictures/Fill.png ---
+l. 381 --- needs --- Pictures/Replace.png ---
+ [17]
+l. 382 --- needs --- Pictures/Crop.png ---
+l. 383 --- needs --- Pictures/Extract.png ---
+l. 384 --- needs --- Pictures/Resolution.png ---
+l. 388 --- needs --- Pictures/ChangeResolution.png ---
+l. 401 --- needs --- Pictures/FreeROI.png ---
+l. 402 --- needs --- Pictures/RectangleROI.png ---
+l. 403 --- needs --- Pictures/CircleROI.png ---
+l. 404 --- needs --- Pictures/PolygonROI.png ---
+l. 405 --- needs --- Pictures/LineROI.png ---
+l. 406 --- needs --- Pictures/AngleROI.png ---
+ [18]
+l. 407 --- needs --- Pictures/ROIManager.png ---
+l. 408 --- needs --- Pictures/Histogram.png ---
+l. 413 --- needs --- Pictures/ROIs.png ---
+l. 421 --- needs --- Pictures/Hist.png ---
+l. 431 --- needs --- Pictures/FreeSeg.png ---
+l. 432 --- needs --- Pictures/CircleSeg.png ---
+l. 433 --- needs --- Pictures/PolygonSeg.png ---
+l. 434 --- needs --- Pictures/EditSeg.png ---
+l. 435 --- needs --- Pictures/SaveSeg.png ---
+l. 436 --- needs --- Pictures/LoadSeg.png ---
+l. 442 --- needs --- Pictures/Segs.png ---
+ [19]
+l. 447 --- needs --- Pictures/EditSeg.png ---
+l. 447 --- needs --- Pictures/SaveSeg.png ---
+l. 447 --- needs --- Pictures/Upload.png ---
+l. 447 --- needs --- Pictures/LoadSeg.png ---
+l. 447 --- needs --- Pictures/Release.png ---
+l. 454 --- needs --- Pictures/Contour.png ---
+l. 455 --- needs --- Pictures/Contour3.png ---
+l. 456 --- needs --- Pictures/ContourFill.png ---
+l. 457 --- needs --- Pictures/Surface.png ---
+l. 458 --- needs --- Pictures/SurfaceCon.png ---
+l. 459 --- needs --- Pictures/SurfaceCol.png ---
+l. 460 --- needs --- Pictures/Mesh.png ---
+l. 461 --- needs --- Pictures/MeshCon.png ---
+l. 462 --- needs --- Pictures/MeshC.png ---
+l. 463 --- needs --- Pictures/Reb.png ---
+l. 464 --- needs --- Pictures/Waterfall.png ---
+l. 465 --- needs --- Pictures/Pcolor.png ---
+ [20]
+l. 474 --- needs --- Pictures/imtool.png ---
+l. 475 --- needs --- Pictures/immovie.png ---
+l. 476 --- needs --- Pictures/imcontrast.png ---
+l. 481 --- needs --- Pictures/matlabIM.png ---
+l. 491 --- needs --- Pictures/3DRender.png ---
+l. 495 --- needs --- Pictures/BrainRender.png ---
+l. 500 --- needs --- Pictures/MIP.png ---
+l. 501 --- needs --- Pictures/MIP3D.png ---
+l. 506 --- needs --- Pictures/3DMIP.png ---
+ [21]
+l. 511 --- needs --- Pictures/3DReslice.png ---
+l. 512 --- needs --- Pictures/Moive.png ---
+l. 517 --- needs --- Pictures/Reslice.png ---
+
+[22] (c:\Users\fliu\Desktop\MatrixUser_User_Guide\MatrixUser_User_Guide.aux) ) 
+Here is how much of TeX's memory you used:
+ 6509 strings out of 493922
+ 80467 string characters out of 3147308
+ 261979 words of memory out of 3000000
+ 9547 multiletter control sequences out of 15000+200000
+ 11364 words of font info for 45 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 48i,6n,36p,2408b,585s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on MatrixUser_User_Guide.dvi (22 pages, 84144 bytes).

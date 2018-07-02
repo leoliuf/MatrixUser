@@ -1,0 +1,27 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{3}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{What is MatrixUser}}{3}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-3}{Installing and Running MatrixUser}}{4}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-30011}{}{\ignorespaces MatrixUser Main Window}}{figure}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-40003}{QQ2-1-5}{Data Import}}{7}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{1}{x1-40012}{}{\ignorespaces MatrixUser Binary File Loading Interface}}{figure}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{1}{x1-40023}{}{\ignorespaces MatrixUser DICOM File Loading Interface}}{figure}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-50004}{QQ2-1-8}{Window Layout}}{8}\relax 
+\doTocEntry\toclof{4}{\csname a:TocLink\endcsname{1}{x1-50014}{}{\ignorespaces MatrixUser Display Window}}{figure}\relax 
+\doTocEntry\toclof{5}{\csname a:TocLink\endcsname{1}{x1-50085}{}{\ignorespaces MatrixUser Concatenation Example}}{figure}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-60005}{QQ2-1-11}{Function Library}}{13}\relax 
+\doTocEntry\toclof{6}{\csname a:TocLink\endcsname{1}{x1-60036}{}{\ignorespaces An Example of 1D Profile. The user can relocate and resize the profile checking line on the image for inspecting live 1D profile. The buttons on the profile window can list profile data, save the data as `data\_plt' array into workspace or copy the data into clipboard.}}{figure}\relax 
+\doTocEntry\toclof{7}{\csname a:TocLink\endcsname{1}{x1-60047}{}{\ignorespaces An Example of Plotting the First (Column) and Second (Row) Matrix Dimension Profile. The user needs to specify which matrix dimension to plot. The profile curve will update according to current mouse cursor position. The user can pause or resume live updating by right click on main display window.}}{figure}\relax 
+\doTocEntry\toclof{8}{\csname a:TocLink\endcsname{1}{x1-60058}{}{\ignorespaces 3D Slicer. To change view slice, the user needs to activate localizer line and then click on desired coordinate on the main display window.}}{figure}\relax 
+\doTocEntry\toclof{9}{\csname a:TocLink\endcsname{1}{x1-60069}{}{\ignorespaces Montage Image. An example of creating a 4-by-5 montage image using multiple matrix slices starting from the first slice.}}{figure}\relax 
+\doTocEntry\toclof{10}{\csname a:TocLink\endcsname{1}{x1-600710}{}{\ignorespaces An Example of Overlapping Two Matrices. A second window is provided for adjusting overlapping effect. The user can choose to overlap any size compatible matrices from the matrix list. There exist control items to change foreground colormap scheme, to modify image intensity fraction, or to change foreground color limits.}}{figure}\relax 
+\doTocEntry\toclof{11}{\csname a:TocLink\endcsname{1}{x1-601411}{}{\ignorespaces Image Filters. An example is shown for applying various image filters.}}{figure}\relax 
+\doTocEntry\toclof{12}{\csname a:TocLink\endcsname{1}{x1-601512}{}{\ignorespaces Image Noise. An example is shown for applying various image noise.}}{figure}\relax 
+\doTocEntry\toclof{13}{\csname a:TocLink\endcsname{1}{x1-601613}{}{\ignorespaces Interpolation Window. An example is shown to double spatial resolution in x and y direction by using a linear interpolation.}}{figure}\relax 
+\doTocEntry\toclof{14}{\csname a:TocLink\endcsname{1}{x1-601914}{}{\ignorespaces Draw Multiple ROIs and Redraw on A Second Image. The source ROIs are in green, copied ROIs are in red.}}{figure}\relax 
+\doTocEntry\toclof{15}{\csname a:TocLink\endcsname{1}{x1-602015}{}{\ignorespaces Histogram for One Image Slice}}{figure}\relax 
+\doTocEntry\toclof{16}{\csname a:TocLink\endcsname{1}{x1-602316}{}{\ignorespaces Editing Segmentation}}{figure}\relax 
+\doTocEntry\toclof{17}{\csname a:TocLink\endcsname{1}{x1-602817}{}{\ignorespaces Matlab Tools}}{figure}\relax 
+\doTocEntry\toclof{18}{\csname a:TocLink\endcsname{1}{x1-603118}{}{\ignorespaces An Example of 3D Human Brain Rendering. Control units on the rendering window are provided for fine tuning the renderer. The user can select isosurface threshold, cutoff connectivity threshold (i.e. object with total voxels less than the threshold will be removed from the rendering. `@' is followed by the voxel number of current largest object) and object opacity. A set of pushbuttons are also available for changing surface color, display box and patches. The default Matlab camera toolbar are provided for adjusting the lighting effect.}}{figure}\relax 
+\doTocEntry\toclof{19}{\csname a:TocLink\endcsname{1}{x1-603219}{}{\ignorespaces 3D Maximum Intensity Projection (MIP). An example of 3D MIP around axial axis of a human knee MRI image stack shows the vascular system of the knee joint.}}{figure}\relax 
+\doTocEntry\toclof{20}{\csname a:TocLink\endcsname{1}{x1-603320}{}{\ignorespaces Reslice 3D Matrix. An example of 3D reslicing generates a new stack of images in the oblique plane from an axial human knee MRI image stack. Note that the resliced images are extracted from the plane perpendicular to the indicating line on the left window.}}{figure}\relax 
